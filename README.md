@@ -35,6 +35,12 @@ Opcional
 npm install
 
 ```
+Para ejecutar en el puerto 8082
+
+usar:
+```bash
+php artisan serve --port=8082 
+```
 
 Coleccion de Postman para backend
 
